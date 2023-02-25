@@ -1,8 +1,8 @@
-import util
+import utils
 
 def main():
   
-  b = util.add(2,5)
+  b = utils.add(2,5)
   print(f'{b}')
 
 
